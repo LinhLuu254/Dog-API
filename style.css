@@ -1,0 +1,94 @@
+
+    .lists {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    float: center;
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(90, 206, 199);
+    border-radius: 10px;
+    border: double 8px  brown;
+  }
+  legend{
+    color: rgb(84, 46, 26);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+  }
+
+option{
+    border: solid 2px black;
+    border-radius: 5px;
+    background-color: rgb(126, 95, 236);
+    padding: 10px;
+    margin: 10px;
+    color: rgb(87, 33, 33);
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.popup{
+  background-color: #d9befa;
+  border: dotted 5px rgb(92, 59, 20);
+  padding: 20px;
+  font-family: cursive;
+}
+.col{
+    background-color: #ec925a;
+    border-radius: 5px;
+    
+}
+
+.row{
+    border: solid 3px brown;
+}
+
+.bi-chat-heart{
+  font-size: 35px;
+}
+
+span.name , span.age{
+  font-weight: bolder;
+  font-size: x-large;
+  font-family: cursive;
+}
+
+span.breed{
+  font-style: italic;
+  font-size: large;
+}
+
+span.treat{
+  font-style: italic;
+  font-size: large;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+span.message{
+  font-size: larger;
+  font-family: cursive;
+}
+
+.container-fuild{
+  border: double 7px brown;
+  background-color: #ffe5a8;
+  text-align: center;
+  color: #184b42;
+  font-family: cursive;
+}
+#dogImg img{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 5px;
+    border: solid 3px #184b42;
+    box-shadow: 2px;
+}
+
+h2.text-center{
+    font-weight: bold;
+  font-family: cursive;
+}
