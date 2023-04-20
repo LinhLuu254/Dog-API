@@ -92,3 +92,7 @@ h2.text-center{
     font-weight: bold;
   font-family: cursive;
 }
+
+img.logo{
+    border-radius: 50px;
+}
