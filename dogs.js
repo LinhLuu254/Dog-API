@@ -89,7 +89,7 @@ const setUp = () => {
       $("#age").append (age);
 
       let treat = `<i class='bi bi-hearts'></i> My favorite treat is <span class="treat">${dogData[index].treat}</span>. <br><br>
-      <span class="message">Want to play with me today?</span> <i class="bi bi-chat-heart"></i>`;
+      <span class="message">"Want to play with me today?"</span> <i class="bi bi-chat-heart"></i>`;
       let container3 = document.getElementById('treat');
       container3.replaceChildren();
       $("#treat").append(treat)
